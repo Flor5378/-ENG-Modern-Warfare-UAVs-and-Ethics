@@ -1,5 +1,7 @@
 # The Impact of Autonomous Weapons on the Ethics of Modern Warfare
 
+![Image](https://github.com/user-attachments/assets/9e34ba12-3305-446e-991e-eb87a04fe988)
+
 **Author:** Florian GROLLEAU  
 **Under the supervision of:** Pr. Fabrizio Li Vigni
 **Affiliation:** 2A-DD Sciences Po Saint-Germain-en-Laye  
