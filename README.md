@@ -1,6 +1,6 @@
 # The Impact of Autonomous Weapons on the Ethics of Modern Warfare
 <div style="width:50%; overflow:hidden; height:75%;">
-  <img src="https://github.com/user-attachments/assets/9e34ba12-3305-446e-991e-eb87a04fe988" style="width:100%;">
+  <img src="https://github.com/user-attachments/assets/9e34ba12-3305-446e-991e-eb87a04fe988" style="width:80%;">
 </div>
 
 **Author:** Florian GROLLEAU  
