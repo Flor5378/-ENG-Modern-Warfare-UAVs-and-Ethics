@@ -1,8 +1,9 @@
 # The Impact of Autonomous Weapons on the Ethics of Modern Warfare
 <div style="width:50%; overflow:hidden; height:75%;">
   <img src="https://github.com/user-attachments/assets/9e34ba12-3305-446e-991e-eb87a04fe988" style="width:80%;">
+  Pixabay free AI generated Image
 </div>
-Pixabay free AI generated Image
+
 **Author:** Florian GROLLEAU  
 **Under the supervision of:** Pr. Fabrizio Li Vigni
 **Affiliation:** 2A-DD Sciences Po Saint-Germain-en-Laye  
